@@ -9,7 +9,7 @@ const Testimonial = () => <section className="relative">
             <p className="text-xl md:text-2xl leading-relaxed">
               “UnderwriteAI accelerated our underwriting cycle while improving model transparency. Our team trusts the outputs, and our clients trust us.”
             </p>
-            <p className="mt-4 text-sm text-muted-foreground">Alex Morgan — VP Risk, US  Regional P&C Insurerer  Group</p>
+            <p className="mt-4 text-sm text-muted-foreground">Alex Morgan — VP Risk, US  Regional Personal Lines MGA</p>
           </div>
         </div>
       </GlassCard>
