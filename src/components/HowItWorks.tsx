@@ -1,7 +1,7 @@
 import GlassCard from "./GlassCard";
 
 const steps = [
-  { step: "01", title: "Connect Data", desc: "Securely connect financial statements, policy data, and risk profiles." },
+  { step: "01", title: "Connect Data", desc: "Securely connect underwriting guidelines, policy data, and risk profiles." },
   { step: "02", title: "Analyze & Explain", desc: "UnderwriteAI evaluates risk and provides transparent rationales." },
   { step: "03", title: "Decide & Automate", desc: "Approve, adjust, or route decisions with built-in workflows." },
 ];
