@@ -5,7 +5,7 @@ const Hero = () => {
       <div className="container mx-auto px-6 pt-24 pb-16">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
           <div className="space-y-6 enter">
-            <p className="text-sm tracking-wider uppercase text-muted-foreground">Futuristic Corporate Trust</p>
+            <p className="text-sm tracking-wider uppercase text-muted-foreground">UNDERWRITING THAT'S RELIABLE</p>
             <h1 className="font-heading text-4xl md:text-5xl font-extrabold leading-tight">
               UnderwriteAI — Secure, Intelligent Underwriting
             </h1>
