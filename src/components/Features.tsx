@@ -4,7 +4,7 @@ import GlassCard from "./GlassCard";
 const features = [
   {
     title: "Bank-grade Security",
-    description: "End-to-end encryption, strict access controls, and full auditability.",
+    description: "End-to-end encryption, strict access controls, and full auditability SOC-2 Attestation.",
     icon: ShieldCheck,
   },
   {
